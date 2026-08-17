@@ -202,4 +202,10 @@ This is why the storeroom door is open.
 
 ---
 
+## Related
+
+- [rk-recall](https://github.com/jinggu-glitch/rk-recall) — Runge-Kutta recall-compensation theorem: a mathematical tool for taming error accumulation in numerical integration.
+
+---
+
 *Narrow Gate Translator*
