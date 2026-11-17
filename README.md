@@ -60,6 +60,8 @@ Each Hebrew letter carries a numerical value. The sum of a word's letters create
 | ח | 8 | פ | 80 | ף | 800 |
 | ט | 9 | צ | 90 | ץ | 900 |
 
+> **Note on final forms.** The table above follows the original system's convention (final forms 500–900). The Ezekiel edition in this repository uses the standard values for final forms (ך=20, ם=40, ן=50, ף=80, ץ=90), verified by תַּחְלִיף = 528. See `README_EZEKIEL.md` for the check and the scope of the difference.
+
 ### Layer 3: Narrative Synthesis
 
 The pictographic sequence (Layer 1) and the numerical connections (Layer 2) are woven together into a **chiastic narrative structure** — a cross-parallel arrangement where elements mirror each other around a central point, which is always Christ and the cross.
@@ -181,6 +183,11 @@ The scribe trains his eyes on the letters, his mind on the numbers, and his pen 
 | `底经解码叙事_全对话汇编.md` | Complete dialogue collection of decoding narratives |
 | `底经与舞蹈的论证.md` | The Base Scripture and the Dance — theological argumentation |
 | `对话_底经与舞蹈的论证.txt` | Dialogue: The Base Scripture and the Dance |
+| `Ezekiel_Decoding_Full_EN.md` | Ezekiel decoded — full English edition: 48 chapters, 1,273 verses, KJV + Hebrew + numeric line |
+| `Ezekiel_Decoding_Deep_EN.md` | Ezekiel decoded — deep English edition: 19 findings, 12 same-value verse pairs, verse-by-verse derivations |
+| `README_EZEKIEL.md` | Method, counting rules and framework limits for the English Ezekiel edition |
+| `data/ezekiel_verses.csv` | Verse-level data: G, m14, seat, m7, factors, mod 42/49, cluster |
+| `data/ezekiel_words.csv` | Word-level data: every Hebrew word with G, m14, seat and cluster |
 
 ---
 
